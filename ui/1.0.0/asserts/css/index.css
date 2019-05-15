@@ -1,0 +1,595 @@
+/*! index page by wade 2019-5-14 12:02:02 */
+
+/*menu*/
+.j-menu-top .center-container{
+    width: 1200px;
+    margin: 0 auto;
+    font-size: 0;
+    overflow: hidden;
+}
+
+
+.j-menu-top .center-container .emphasis{
+    color: #fffe93;
+}
+
+.j-menu-top .center-container .j-nav-bm-btns {
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 54px;
+    padding-top: 9px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.j-menu-top .center-container .left{
+    float: left;
+}
+
+.j-menu-top .center-container .right{
+    float: right;
+    margin-right: 10px;
+}
+
+.j-menu-top .center-container .j-btn:hover {
+    color: #fff;
+}
+.j-menu-top .center-container .c-nav-wrap a:hover {
+    text-decoration: none;
+}
+.j-menu-top .center-container .c-nav a:hover {
+    text-decoration: none;
+}
+.j-menu-top .center-container .j-nav-bm-btn {
+    height: 36px;
+    min-width: 80px;
+    padding: 0;
+    line-height: 36px;
+    vertical-align: middle;
+    margin: 0 5px;
+}
+.j-menu-top .center-container .j-btn:hover {
+    text-decoration: none;
+    background-color: #0092ee;
+}
+.j-menu-top .center-container .j-btn {
+    min-width: 122px;
+    padding: 0 20px;
+    background-color: #00a4ff;
+    color: #fff;
+    font-size: 14px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    outline: 0;
+    box-sizing: border-box;
+    float: left;
+
+}
+
+.j-menu-top .center-container .parting-tip-text {
+    color: #fefeff;
+    font-size: 14px;
+    display: block;
+    height: 36px;
+    line-height: 36px;
+    margin: 0 10px;
+    float: left;
+}
+
+.j-menu-top .center-container .j-nav-bm-btns ul{
+    list-style: none;
+    display: inline-block;
+}
+
+.j-menu-top .center-container .j-nav-bm-btns ul li a{
+    font-size: 14px;
+}
+
+.j-menu-top .center-container .j-nav-bm-btns ul li{
+    float: left;
+    margin: 0 10px;
+    height: 36px;
+    line-height: 36px;
+    float: left;
+}
+
+.j-menu-top .center-container .separate{
+    display: inline-block;
+    border-right: 1px solid #555962;
+    min-height: 20px;
+    position: relative;
+    top: -8px;
+    margin: 0 10px;
+}
+/*menu end*/
+
+/*banner*/
+.j-banner{
+    min-height: 440px;
+    background: url(https://imgcache.qq.com/open_proj/proj_qcloud_v2/gateway/market/css/img/home/bg/banner-bg.png) center #1F2531;
+    background-size: cover;
+    padding-bottom: 120px;
+}
+
+.j-banner-section{
+    margin-top: -140px;
+    background: rgba(42,51,81,.8);
+ }
+
+.grid-section {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.gc-w1or1 {
+    width: 100%;
+    margin: 0;
+    padding: 0 10px;
+    float: none;
+    box-sizing: border-box;
+}
+
+.j-advantage {
+    height: 140px;
+}
+
+.j-advantage .advantage-block {
+    width: 25%;
+    float: left;
+    padding: 30px 0;
+}
+
+.j-advantage .advantage-block .block-text {
+    background-position: left center;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    padding: 18px 0 18px 80px;
+    height: 80px;
+    font-size: 0;
+}
+
+.j-advantage .advantage-block .block-text .title {
+    font-size: 20px;
+    color: #FFF;
+    line-height: 24px;
+    font-weight: 700;
+}
+
+.j-advantage .advantage-block .block-text .tip {
+    font-size: 12px;
+    color: rgba(255,255,255,.8);
+    line-height: 16px;
+    margin-top: 4px;
+}
+
+.j-advantage .advantage-block .bg-1 {
+    background-image: url(https://imgcache.qq.com/open_proj/proj_qcloud_v2/gateway/market/css/img/home/bg/advantage-1.svg);
+}
+
+.j-advantage .advantage-block .bg-2 {
+    background-image: url(https://imgcache.qq.com/open_proj/proj_qcloud_v2/gateway/market/css/img/home/bg/advantage-2.svg);
+}
+
+.j-advantage .advantage-block .bg-3 {
+    background-image: url(https://imgcache.qq.com/open_proj/proj_qcloud_v2/gateway/market/css/img/home/bg/advantage-3.svg);
+}
+
+.j-advantage .advantage-block .bg-4 {
+    background-image: url(https://imgcache.qq.com/open_proj/proj_qcloud_v2/gateway/market/css/img/home/bg/advantage-4.svg);
+}
+
+.j-banner .container{
+    min-width: 1200px;
+    max-width: 1200px;
+    height: 440px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.j-banner .container .nav{
+    width: 240px;
+    float: left;
+    margin-right: 20px;
+}
+
+.j-banner .container .brand{
+    min-height: 80px;
+    background-color: #3A4567;
+    background: url(../img/brand.png) center #1F2531;
+    background-size: cover;
+}
+
+.j-banner .container .nav .list{
+    min-height: 320px;
+    background-color: #2B3553;
+    position: relative;
+}
+
+.j-banner .container .nav .list ul{
+    list-style: none;
+}
+
+.j-banner .container .nav .list li{
+    float: left;
+    width: 220px;
+    height: 42px;
+    line-height: 42px;
+    padding-left: 20px;
+    font-size: 0;
+    transition: all 0.5s;
+}
+
+.j-banner .container .nav .list .block-item{
+    transition: background-color .25s;
+}
+
+.j-banner .container .nav .list .block-item .block-title a{
+    font-size: 16px;
+    font-weight: bold;
+
+    width: 78px;
+    height: 40px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+    position: relative;
+}
+
+.j-banner .container .nav .list .block-item a:hover{
+    color: #00A4FF;
+}
+
+.j-banner .container .nav .list .block-item .block-title a:after {
+    content: '';
+    display: block;
+    width: 1px;
+    height: 10px;
+    top: 15px;
+    position: absolute;
+    right: -1px;
+    background-color: rgba(255,255,255,.5);
+}
+
+.j-banner .container .nav .list .block-item a{
+    font-size: 12px;
+    color: #F0f0f0;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+    transition: color .25s;
+}
+
+
+.j-banner .container .nav .list .actived {
+    background-color: #FFF;
+    transition: background-color .5s;
+}
+
+.j-banner .container .nav .list .actived a {
+    color: #333
+}
+
+.j-banner .container .nav .list .actived .block-title {
+    color: #000
+}
+
+.j-banner .container .nav .list .actived .block-title a:after {
+    background-color: #DDD;
+}
+
+
+.j-banner .container .nav .list .block-item-detail{
+    position: absolute;
+    width: 680px;
+    height: 400px;
+    left: 240px;
+    top: -80px;
+    background-color: #fff;
+    display: none;
+    transition: background-color .5s;
+    z-index: 1000;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-container{
+    height: 100%;
+    width: 100%;
+    padding: 40px;
+    box-sizing: border-box;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content{
+    height: 100%;
+    width: 100%;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content .detail-title{
+    height: 36px;
+    width: 100%;
+    font-size: 28px;
+    color: #000;
+    line-height: 36px;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content .detail-section .sub-nav-list{
+    display: block;
+    min-height: 104px;
+    padding: 17px 0 35px;
+    box-sizing: border-box;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content .detail-section .sub-nav-list a{
+    color: #000;
+    list-style: none;
+    margin-left: 0px;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content .detail-section .sub-nav-list a:hover{
+    color: #00A4FF;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content .detail-section .sub-nav-list li{
+    display: block;
+    font-size: 0;
+    height: 16px;
+    line-height: 16px;
+    padding: 5px 20px 5px 0;
+    float: left;
+    max-width: 68px;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content .detail-section .sub-detail-list{
+    font-size: 0;
+    margin: 0 10px;
+    list-style: none;
+
+    display: block;
+    min-height: 200px;
+    box-sizing: border-box;
+
+    margin-left: -43px;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content .detail-section .sub-detail-list li:first-child{
+    border-left: none;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content .detail-section .sub-detail-list li{
+    border-left: 1px solid #e9e9e9;
+    box-sizing: border-box;
+    width: 33.33%;
+    display: inline-block;
+    padding: 0 30px;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content .detail-section .sub-detail-list li:hover{
+    background-color: transparent;
+    transition: background-color .5s;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content .detail-section .sub-detail-list li span{
+    display: block;
+    margin: 0 auto;
+    width: 120px;
+    height: 80px;
+    max-width: 100%;
+    line-height: 80px;
+    text-align: center;
+    overflow: hidden;
+    font-size: 0;
+}
+
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content .detail-section .sub-detail-list li span img{
+    display: inline-block;
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    vertical-align: middle;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content .detail-section .sub-detail-list li a{
+    display: block;
+    width: 100%;
+    font-size: 14px;
+    color: #000;
+    text-align: center;
+    line-height: 20px;
+    margin-top: 20px;
+    height: 40px;
+    overflow: hidden;
+    transition: color .25s;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content .detail-section .sub-detail-list li a:hover{
+    color: #00A4FF;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content .detail-section .sub-detail-list li p{
+    font-size: 28px;
+    font-weight: bold;
+    color: #FF6602;
+    text-align: center;
+    margin-top: 24px;
+    line-height: 18px;
+    font-family: DINCOND-BOLD;
+    width: 175px;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content .detail-section .sub-detail-list li .unit{
+    font-size: 12px;
+    margin-left: 5px;
+    display: inline;
+    line-height: 18px;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content .detail-section .sub-detail-list li p .CNY{
+    font-size: 14px;
+    color: #FF6602;
+    margin-top: 24px;
+    line-height: 18px;
+    display: inline;
+    margin-right: 10px;
+}
+
+.j-banner .container .nav .list .block-item .block-item-detail .detail-content .detail-section .sub-detail-list li p .old-info{
+    font-size: 12px;
+    text-decoration: line-through;
+    color: #bbb;
+    margin-top: 24px;
+    line-height: 18px;
+    display: inline;
+    margin-left: 10px;
+    font-family: "Roboto";
+    font-weight: normal;
+}
+
+.j-banner .container .banner{
+    float: left;
+    width: 660px;
+    height: 400px;
+    margin-right: 20px;
+    background-color: #2B3553;
+    position: relative;
+    flex-shrink: 0;
+}
+
+
+.j-banner .container .plate{
+    float: left;
+    width: 240px;
+    height: 400px;
+}
+
+.j-banner .container .swiper-container {
+    width: 660px;
+    height: 400px;
+    color: #fff;
+}
+
+.j-banner .container .banner .swiper-container .swiper-wrapper .banner-detail{
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    width: 100%;
+    height: 100%;
+    display: block;
+    box-sizing: border-box;
+    padding: 60px;
+    line-height: 280px;
+    font-size: 0;
+}
+
+.j-banner .container .banner .swiper-container .swiper-wrapper .banner-detail .carousel-inner {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 0;
+}
+
+.j-banner .container .banner .swiper-container .swiper-wrapper .banner-detail .carousel-inner .title {
+    font-size: 40px;
+    color: #FFF;
+    line-height: 56px;
+    font-weight: 700;
+}
+
+.j-banner .container .banner .swiper-container .swiper-wrapper .banner-detail .carousel-inner .text {
+    font-size: 16px;
+    color: #FFF;
+    line-height: 22px;
+    margin-top: 8px;
+}
+
+.j-banner .container .banner .swiper-container .swiper-wrapper .banner-detail .carousel-inner .carousel-btn {
+    margin-top: 40px;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 40px;
+    font-size: 16px;
+    color: #fff;
+    display: inline-block;
+    border: 1px solid rgba(255,255,255,.5);
+    vertical-align: top;
+    transition: all .25s;
+}
+
+
+.j-banner .container .banner .swiper-container .swiper-wrapper .banner-detail .carousel-inner .carousel-btn:hover {
+    background-color: #fff;
+    color: #00A4FF;
+}
+
+
+.j-banner .container .banner .swiper-container  .swiper-pagination-bullet {
+    border-radius: 0 !important;
+    ontent: '';
+    display: inline-block;
+    height: 3px;
+    width: 30px;
+    background-color: #fff;
+}
+
+.j-banner .container .banner .swiper-container  .swiper-pagination-bullet:before{
+    ontent: '';
+    display: block;
+    height: 3px;
+    background: rgba(255,255,255,.3);
+    width: 30px;
+}
+
+.j-banner .container .plate .about-market .about-block {
+    height: 120px;
+    line-height: 80px;
+    margin-bottom: 20px;
+}
+
+.j-banner .container .plate .about-market .about-block .bg-1 {
+    background-image: url(../img/right-nav-default.png);
+}
+
+.j-banner .container .plate .about-market .about-block>a:hover {
+    background-size: 110%;
+}
+
+.j-banner .container .plate .about-market .about-block>a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: #2B3553;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    box-sizing: border-box;
+    padding: 20px;
+    transition: background-size .35s;
+}
+
+.j-banner .container .plate .about-market .about-block .block-text {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 100%;
+    word-break: break-all;
+}
+
+
+.j-banner .container .plate .about-market .about-block .block-text .title {
+    font-size: 20px;
+    color: #FFF;
+    line-height: 24px;
+    font-weight: 700;
+}
+
+.j-banner .container .plate .about-market .about-block .block-text .tip {
+    font-size: 12px;
+    color: #fff;
+    line-height: 16px;
+    margin-top: 8px;
+}
+
+/*banner end*/
